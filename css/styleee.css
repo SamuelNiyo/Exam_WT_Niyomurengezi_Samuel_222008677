@@ -1,0 +1,46 @@
+h2{
+			font-family:Castellar;
+			color: darkblue;
+		}
+		label{
+			font-family: Palatino Linotype;
+		}
+		.sb{
+			font-family:new 'Times New Roman', Times, serif;
+			padding: 10px;
+			border-color: red;
+			background-color: gray;
+			width: 90px;
+			margin-top: 5px;
+			border-radius: 50px;
+			font-weight: bold;
+
+		}
+		.sb:hover{
+			background-color: rgb(224, 22, 43);
+		}
+		.cn{
+			font-family:'Times New Roman', Times, serif;
+			padding: 10px;
+			border-color:red;
+			background-color: gray;
+			width: 90px;
+			margin-top: 5px;
+			border-radius: 30px;
+			font-weight: bold;
+
+		}
+		.cn:hover{
+			background-color: red;
+		}
+		.input{
+			width: 200px;
+			height: 35px;
+			border-radius: 12px;
+			border-color: orange;
+		}
+		.sp{
+			border: 2px solid white;
+			width: 500px;
+			height: 700px;
+		}
